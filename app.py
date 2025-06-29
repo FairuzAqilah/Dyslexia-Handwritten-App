@@ -1,6 +1,3 @@
-!pip install gdown
-!pip install streamlit
-
 # === app.py ===
 
 import streamlit as st
